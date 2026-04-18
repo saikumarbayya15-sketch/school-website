@@ -12,6 +12,13 @@
     width:200px;
 }
 
+.btn{
+    box-shadow:5px 5px 5px black;
+}
+
+.u1{
+    padding-top:20px;
+}
 .atag5{
     position: sticky;
     top:0;
