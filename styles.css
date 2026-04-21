@@ -7,7 +7,20 @@
   width: 100px;
   margin-top: 20px;
 }
+.bounce-text {
+      font-size: 30px;
+      text-align: center;
+      margin-top: 100px;
+      animation: bounce 3s infinite;
+    }
 
+    @keyframes bounce {
+      0% { transform: translateY(0); }
+      30% { transform: translateY(-40px); }
+      50% { transform: translateY(0); }
+      70% { transform: translateY(-10px); }
+      100% { transform: translateY(0); }
+    }
 .a {
   height: 100px;
   width: 200px;
