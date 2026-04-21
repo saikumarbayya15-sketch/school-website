@@ -28,7 +28,7 @@
   background-position: right;
 }
 
-.btn-gradient3 {
+.btn-gradient2 {
   padding: 12px 25px;
   border: none;
   color: white;
@@ -39,11 +39,11 @@
   transition: 0.5s;
 }
 
-.btn-gradient3:hover {
+.btn-gradient2:hover {
   background-position: right;
 }
 
-.btn-gradient4 {
+.btn-gradient3 {
   padding: 12px 25px;
   border: none;
   color: white;
@@ -54,7 +54,7 @@
   transition: 0.5s;
 }
 
-.btn-gradient4:hover {
+.btn-gradient3:hover {
   background-position: right;
 }
 
