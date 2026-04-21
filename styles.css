@@ -25,6 +25,65 @@
   height: 100px;
   width: 200px;
 }
+.btn-gradient {
+  padding: 12px 25px;
+  border: none;
+  color: white;
+  border-radius: 30px;
+  cursor: pointer;
+  background: linear-gradient(45deg, #ff6b6b, #5f27cd, #ff6b6b);
+  background-size: 200%;
+  transition: 0.5s;
+}
+
+.btn-gradient:hover {
+  background-position: right;
+}
+
+.btn-gradient1 {
+  padding: 12px 25px;
+  border: none;
+  color: white;
+  border-radius: 30px;
+  cursor: pointer;
+    background: linear-gradient(45deg, yellow, #ff0000, yellow);
+  background-size: 200%;
+  transition: 0.5s;
+}
+
+.btn-gradient1:hover {
+  background-position: right;
+}
+
+.btn-gradient3 {
+  padding: 12px 25px;
+  border: none;
+  color: white;
+  border-radius: 30px;
+  cursor: pointer;
+   background: linear-gradient(45deg, #00fff7, #2600ff, #00fff7);
+  background-size: 200%;
+  transition: 0.5s;
+}
+
+.btn-gradient3:hover {
+  background-position: right;
+}
+
+.btn-gradient4 {
+  padding: 12px 25px;
+  border: none;
+  color: white;
+  border-radius: 30px;
+  cursor: pointer;
+  background: linear-gradient(45deg, rgb(0, 255, 0), rgb(3, 83, 3), #37ff00);
+  background-size: 200%;
+  transition: 0.5s;
+}
+
+.btn-gradient4:hover {
+  background-position: right;
+}
 
 .btn {
   box-shadow: 5px 5px 5px black;
