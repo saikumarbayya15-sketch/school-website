@@ -347,7 +347,7 @@ header .div2 {
   }
 }
 
-footer {
+ .footer {
   background-color: rgb(4, 4, 40);
   text-align: center;
 }
@@ -460,3 +460,12 @@ marquee {
   margin-bottom: 20px;
 }
 
+
+.para{
+  text-align:left;
+  padding:20px;
+}
+
+.para1{
+  text-align: center;
+}
